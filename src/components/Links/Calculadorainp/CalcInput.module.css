@@ -1,0 +1,22 @@
+.tudo {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.h2 {
+    font-size: 40px;
+    border-bottom: 2px solid black;
+}
+
+.opera {
+    margin: 10px;
+    padding: 10px;
+}
+
+.resu {
+    background-color: #E9E9E9;
+}
